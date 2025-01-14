@@ -1,0 +1,7 @@
+C:\Programiranje1\Prva\Prva\obj\Debug\Prva.csproj.AssemblyReference.cache
+C:\Programiranje1\Prva\Prva\obj\Debug\Prva.csproj.CoreCompileInputs.cache
+C:\Programiranje1\Prva\Prva\bin\Debug\Prva.exe.config
+C:\Programiranje1\Prva\Prva\bin\Debug\Prva.exe
+C:\Programiranje1\Prva\Prva\bin\Debug\Prva.pdb
+C:\Programiranje1\Prva\Prva\obj\Debug\Prva.exe
+C:\Programiranje1\Prva\Prva\obj\Debug\Prva.pdb
